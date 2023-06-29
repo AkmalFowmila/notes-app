@@ -1,1 +1,1 @@
-# Notes web app with user authentication
+# Python Flask Notes web app with user authentication
